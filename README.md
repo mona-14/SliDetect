@@ -2,11 +2,11 @@
 
 ## Required Libraries:
 
-numpy
-torch
-sacred
-tensorboard
-matplotlib
-sklearn
-h5py
+numpy <br>
+torch <br>
+sacred <br>
+tensorboard <br>
+matplotlib <br>
+sklearn <br>
+h5py <br>
 
