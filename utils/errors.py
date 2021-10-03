@@ -1,2 +1,0 @@
-class SizeError(Exception):
-    pass
